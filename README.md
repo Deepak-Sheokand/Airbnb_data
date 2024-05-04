@@ -36,6 +36,10 @@ The telecommunications market is already well-established, and the rate of new c
 
 ---
 
+## Thank you for your attention and interest in my Telecom Churn Analysis.
+
+---
+
 ## Data Analyst
 
 [**Deepak Sheokand**](https://www.linkedin.com/in/deepak-sheokand-0a0833272/)

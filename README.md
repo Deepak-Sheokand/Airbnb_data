@@ -36,6 +36,6 @@ The telecommunications market is already well-established, and the rate of new c
 
 ---
 
-## Author
+## Data Analyst
 
 [**Deepak Sheokand**](https://www.linkedin.com/in/deepak-sheokand-0a0833272/)
